@@ -1,4 +1,7 @@
+原作者地址：https://github.com/RysisLiang/TimestampConversion
+
 # TimestampConversion | 基于Alfred3的时间戳与时间字符串转换
+
 
 
 ## 简介
@@ -11,8 +14,7 @@
 
 ## 更新日志
 
-- 2019-05-09 
-  - 1.0版本代码初次上传
+- 修改为python3支持
 
 ---
 

@@ -1,0 +1,2 @@
+//git忽略文件
+src/_ _pycache_ _/  #忽略pycache文件夹
